@@ -3,7 +3,6 @@
   background: #f9f9f9;
   padding: 20px;
   border-radius: 10px;
-  color: #333;
   font-family: 'Arial, sans-serif';
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   max-width: 1200px;
@@ -61,7 +60,6 @@
 .video-member {
   font-size: 18px;
   font-weight: bold;
-  color: #333;
   margin-bottom: 10px;
 }
 

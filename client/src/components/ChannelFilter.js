@@ -51,7 +51,7 @@ const ChannelFilter = ({ onChannelsSelect }) => {
         ))}
       </div>
       <button className="apply-filter-button" onClick={applyFilter} disabled={selectedChannels.length === 0}>
-        Apply Filter
+        시작
       </button>
     </div>
   );
